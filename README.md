@@ -28,6 +28,6 @@ Here are some projects I've worked on:
 
 1. [Feed Baby Bowie!](https://scratch.mit.edu/projects/861818624/) - As part of the bootcamp I did in 2023, we started with the basics, creating games and animations in Scratch. I created a game inspired by my son Ziggy, and his namesake Ziggy Stardust.  
 2. [My digital resume](https://larakoseff.github.io/) - Learn more about me via my digital resume, built with basic HTML, CSS and JavaScript 
-3. [Pod is in the Details](https://subtle-croissant-aa7f9d.netlify.app/) - Also forming part of my 2023 coding bootcamp, we built our own podcast sites using React and loading data from an API. Much room for improvement here, but it was a good start. 
+3. [Pod is in the Details](https://subtle-croissant-aa7f9d.netlify.app/) - Also forming part of my 2023 coding bootcamp, we built our own podcast sites using React and loading data from an API. Much room for improvement wrt responsiveness, code structure and debugging here, but it was a great introduction to React and has motivated me to learn more. 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
