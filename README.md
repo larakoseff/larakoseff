@@ -28,7 +28,7 @@ I’m a versatile designer, writer, and developer with a deep interest in art, d
 
 Here are some projects I've worked on:
 
-1. [tiny letters for mothers](https://tinyletters.github.io/#/) - Tiny letters for mothers is a non-commercial and interactive data visualisation platform based on stories of early motherhood, collaboratively conceptualised with creative research scholar Dr Dee Marco. I designed and devloped the platform myself, using React and the data visualisation library D3.js.
+1. [tiny letters for mothers](https://tinyletters.github.io/#/) - Tiny letters for mothers is a non-commercial and interactive data visualisation platform based on stories of early motherhood, collaboratively conceptualised with creative research scholar Dr Dee Marco. I designed and developed the platform myself, using Adobe XD, React and the data visualisation library D3.js.
 2. [Something Good Studio](https://somethinggoodstudio.com/) - In 2024 I worked extensively with Something Good Studio to redesign and reconceptualise their brand and e-commerce websites. This resulted in a merger with their sister brand Romaria and I worked with them on a refresh of their Shopify site that brings the two brands together.  
 3. [Feed Baby Bowie!](https://scratch.mit.edu/projects/861818624/) - As part of the bootcamp I did in 2023, we started with the basics, creating games and animations in Scratch. I created a game inspired by my son Ziggy, and his namesake Ziggy Stardust.  
 4. [My digital resume](https://larakoseff.github.io/) - Learn more about me via my digital resume, built with basic HTML, CSS and JavaScript 
